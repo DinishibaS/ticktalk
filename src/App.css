@@ -195,7 +195,7 @@
   .send-icon {
     top: 1px;
     position: relative;
-    transform: rotate(-90deg);
+    
   }
   
   .picture-icon {
@@ -217,8 +217,8 @@
   .wrapper {
     height: 100vh;
       width: 100%;
-      background: rgb(24,76,158);
-      background: radial-gradient(circle, rgba(24,76,158,1) 0%, rgba(16,34,70,1) 5%, rgba(15,29,59,1) 31%, rgba(17,37,76,1) 37%, rgba(19,48,99,1) 47%, rgba(17,38,77,1) 58%, rgba(10,2,2,1) 100%);
+      background: rgb(15,16,16);
+      background: radial-gradient(circle, rgba(15,16,16,1) 0%, rgba(70,39,110,1) 24%, rgba(84,33,152,1) 36%, rgba(107,38,197,1) 44%, rgba(99,36,181,1) 52%, rgba(73,29,132,1) 64%, rgba(35,18,59,1) 82%, rgba(22,13,35,1) 91%);
     display: flex;
     justify-content: center;
     align-items: center;
